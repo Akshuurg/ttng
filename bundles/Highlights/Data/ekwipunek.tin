@@ -17,6 +17,7 @@
 
 #nop TARCZE;
 	#sub {wysoka masywna pawez} {<028>%0 <088>( <038>Orcall<088> )}; 
+	#high {zasniedzial% rycersk% tarcz%} {<028> <088>( <038>Wezendorf<088> )};
 	#high {owalna masywna tarcza} {<028>};
 	#high {trojbarwna trojkatna tarcza} {<028>};
 	#sub {ciezka zdobiona pawez} {<028>%0 <088>( <038>Bretonia Warownia<088> )}; 
